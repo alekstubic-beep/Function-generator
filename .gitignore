@@ -1,0 +1,12 @@
+# Altium backup files
+*.SchDocBck
+*.PcbDocBck
+*.PrjPcbBck
+*.BakBck
+
+# Altium history and preview folders
+History/
+__Previews/
+
+# Altium lock files
+*.lck
